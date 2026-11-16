@@ -1,0 +1,8 @@
+{
+  "name": "Pose Master AI",
+  "description": "Transform your photos into professional yoga and fitness poses using advanced AI. Choose a pose, upload your photo, and see the magic happen.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": []
+}
